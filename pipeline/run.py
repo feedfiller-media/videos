@@ -9,6 +9,7 @@ FRUITS = [
     ("strawberry", "strawberry", "\U0001F353"), ("cherry", "cherry", "\U0001F352"), ("pomegranate", "pomegranate", ""),
     ("tomato2", "tomato", "\U0001F345"), ("apple", "apple", "\U0001F34E"), ("lychee", "lychee", ""),
     ("strawberry", "strawberry", "\U0001F353"), ("orange", "orange", "\U0001F34A"),
+    ("plum", "plum", ""), ("pepper", "pepper", "\U0001FAD1"),
 ]
 END_TEXTS = ["Rate this from 1 to 10", "Would you still eat it?", "Which fruit should be next?", "Could you eat all of it?",
              "Be honest: how many cuts was that?", "Satisfying or not?", "Comment your score", "Would you try this?"]
@@ -21,7 +22,7 @@ def render(slot, day_idx, date, rng):
     shutil.copytree(os.path.join(HERE, "fruits", proj), work)
     end = os.environ.get(f"END_{slot + 1}") or rng.choice(END_TEXTS)
     env = dict(os.environ, END_TEXT=end, SIM_SEED=str(rng.randint(1, 9999)))
-    base_yaw = {"cherry": 0.0, "pomegranate": 0.0, "tomato2": 0.0, "strawberry": -0.55, "lychee": -0.35, "apple": 0.45, "orange": 0.45}[proj]
+    base_yaw = {"cherry": 0.0, "pomegranate": 0.0, "tomato2": 0.0, "strawberry": -0.55, "lychee": -0.35, "apple": 0.45, "orange": 0.45, "plum": 0.3, "pepper": 0.3}[proj]
     env["YAW_OVERRIDE"] = str(round(base_yaw + rng.uniform(-0.25, 0.25), 3))   # every video looks a bit different
     os.makedirs(os.path.join(work, "cache"), exist_ok=True)
     subprocess.run([sys.executable, "main_t.py"], cwd=work, env=env, check=True, stdout=subprocess.DEVNULL)

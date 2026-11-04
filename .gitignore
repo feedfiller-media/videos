@@ -1,0 +1,6 @@
+*.mp4
+plan.json
+pipeline/fruits/*/cache/
+pipeline/fruits/*/test_*.png
+pipeline/fruits/*/test.log
+__pycache__/
