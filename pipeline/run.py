@@ -10,7 +10,9 @@ FRUITS = [
     ("tomato2", "tomato", "\U0001F345"), ("apple", "apple", "\U0001F34E"), ("lychee", "lychee", ""),
     ("strawberry", "strawberry", "\U0001F353"), ("orange", "orange", "\U0001F34A"),
     ("plum", "plum", ""), ("pepper", "pepper", "\U0001FAD1"),
+    ("bloodorange", "bloodorange", "\U0001F534"), ("grapefruit", "grapefruit", ""),
 ]
+NAMES = {"bloodorange": "blood orange"}   # caption wording when it differs from the hashtag
 END_TEXTS = ["Rate this from 1 to 10", "Would you still eat it?", "Which fruit should be next?", "Could you eat all of it?",
              "Be honest: how many cuts was that?", "Satisfying or not?", "Comment your score", "Would you try this?"]
 
@@ -22,7 +24,7 @@ def render(slot, day_idx, date, rng):
     shutil.copytree(os.path.join(HERE, "fruits", proj), work)
     end = os.environ.get(f"END_{slot + 1}") or rng.choice(END_TEXTS)
     env = dict(os.environ, END_TEXT=end, SIM_SEED=str(rng.randint(1, 9999)))
-    base_yaw = {"cherry": 0.0, "pomegranate": 0.0, "tomato2": 0.0, "strawberry": -0.55, "lychee": -0.35, "apple": 0.45, "orange": 0.45, "plum": 0.3, "pepper": 0.3}[proj]
+    base_yaw = {"cherry": 0.0, "pomegranate": 0.0, "tomato2": 0.0, "strawberry": -0.55, "lychee": -0.35, "apple": 0.45, "orange": 0.45, "plum": 0.3, "pepper": 0.3, "bloodorange": 0.45, "grapefruit": 0.45}[proj]
     env["YAW_OVERRIDE"] = str(round(base_yaw + rng.uniform(-0.25, 0.25), 3))   # every video looks a bit different
     os.makedirs(os.path.join(work, "cache"), exist_ok=True)
     subprocess.run([sys.executable, "main_t.py"], cwd=work, env=env, check=True, stdout=subprocess.DEVNULL)
@@ -31,7 +33,7 @@ def render(slot, day_idx, date, rng):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", "video_silent.mp4", "-i", "audio_px.wav", "-map", "0:v", "-map", "1:a",
                     "-c:v", "libx264", "-preset", "medium", "-b:v", "2400k", "-maxrate", "2800k", "-bufsize", "5600k",
                     "-af", "loudnorm=I=-15:TP=-1.5:LRA=11", "-c:a", "aac", "-b:a", "160k", "-shortest", out], cwd=work, check=True)
-    caption = f"1 cut vs 1000 cuts {tag} {emo} {end} #satisfying #oddlysatisfying #{tag} #asmr #fyp".replace("  ", " ")
+    caption = f"1 cut vs 1000 cuts {NAMES.get(tag, tag)} {emo} {end} #satisfying #oddlysatisfying #{tag} #asmr #fyp".replace("  ", " ")
     return dict(slot=slot, time="12:45" if slot == 0 else "19:45", file=os.path.basename(out), fruit=tag, caption=caption)
 
 if __name__ == "__main__":

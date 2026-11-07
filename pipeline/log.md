@@ -18,3 +18,8 @@
 - Early signal (1 day): pepper 1660 (solid), plum 276 (weak). Red/bold fruits (tomato, pomegranate) confirm the pattern; dark purple plum underperforms.
 - Comments: "Which fruit should be next?" (lychee 4) and "Would you still eat it?" (apple, orange 3) lead.
 - Cleanup: plum and pepper videos on uploads are sent and can be removed.
+
+## 2026-11-07
+- Kevin: no repeats, find new fruits (red or bright colours), objects also allowed later, but there must be uploads every day.
+- Built two new projects from the orange renderer: bloodorange (deep red pulp, red blush skin) and grapefruit (pink pulp, yellow-pink skin). Thin pith so cubes stay red/pink.
+- 12:45 blood orange with "Would you still eat it?" (red fruits lead); 19:45 grapefruit with "Which fruit should be next?" (most comments so far).
