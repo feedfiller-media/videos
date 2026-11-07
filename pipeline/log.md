@@ -23,3 +23,7 @@
 - Kevin: no repeats, find new fruits (red or bright colours), objects also allowed later, but there must be uploads every day.
 - Built two new projects from the orange renderer: bloodorange (deep red pulp, red blush skin) and grapefruit (pink pulp, yellow-pink skin). Thin pith so cubes stay red/pink.
 - 12:45 blood orange with "Would you still eat it?" (red fruits lead); 19:45 grapefruit with "Which fruit should be next?" (most comments so far).
+- Daily run 08:45: today already scheduled (blood orange 12:45, grapefruit 19:45), so analysis only, no new build.
+- Fully counted (48h+): lychee 4950, apple 4943, strawberry 4870, tomato 4715, cherry 4488, pomegranate 4373, orange 1829; banana 447, peach 324, watermelon 305.
+- Pepper (2 days) climbed to 2717, solid; plum stays weak at 281. Red/bold fruits keep leading, dark purple and pale yellow lag.
+- Cleanup: uploads only holds today's two scheduled videos, nothing deleted. No unused finished fruit left after today.
