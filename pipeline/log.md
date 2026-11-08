@@ -31,5 +31,5 @@
 ## 2026-11-08
 - No unused finished fruit left (all 11 projects incl. bloodorange and grapefruit used), so no build and nothing scheduled today. Analysis and cleanup only.
 - Fully counted (48h+): lychee 4967, strawberry 4962, apple 4949, tomato 4719, cherry 4491, pomegranate 4381, pepper 2725, orange 1840; banana 458, peach 327, watermelon 315, plum 282.
-- Early signal (1 day): grapefruit 490, blood orange 259, both 0 comments. Weak so far; at the same age pepper had 1660 and tomato/pomegranate were far ahead.
+- Early signal (1 day): grapefruit 490, blood orange 259, both 0 comments. Weak so far; at the same age pepper had 1660.
 - Cleanup: blood orange and grapefruit are sent, removed from uploads. Kevin must build and approve new fruits.
