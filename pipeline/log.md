@@ -27,3 +27,9 @@
 - Fully counted (48h+): lychee 4950, apple 4943, strawberry 4870, tomato 4715, cherry 4488, pomegranate 4373, orange 1829; banana 447, peach 324, watermelon 305.
 - Pepper (2 days) climbed to 2717, solid; plum stays weak at 281. Red/bold fruits keep leading, dark purple and pale yellow lag.
 - Cleanup: uploads only holds today's two scheduled videos, nothing deleted. No unused finished fruit left after today.
+
+## 2026-11-08
+- No unused finished fruit left (all 11 projects incl. bloodorange and grapefruit used), so no build and nothing scheduled today. Analysis and cleanup only.
+- Fully counted (48h+): lychee 4967, strawberry 4962, apple 4949, tomato 4719, cherry 4491, pomegranate 4381, pepper 2725, orange 1840; banana 458, peach 327, watermelon 315, plum 282.
+- Early signal (1 day): grapefruit 490, blood orange 259, both 0 comments. Weak so far; at the same age pepper had 1660 and tomato/pomegranate were far ahead.
+- Cleanup: blood orange and grapefruit are sent, removed from uploads. Kevin must build and approve new fruits.
