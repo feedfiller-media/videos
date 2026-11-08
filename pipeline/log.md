@@ -32,4 +32,7 @@
 - No unused finished fruit left (all 11 projects incl. bloodorange and grapefruit used), so no build and nothing scheduled today. Analysis and cleanup only.
 - Fully counted (48h+): lychee 4967, strawberry 4962, apple 4949, tomato 4719, cherry 4491, pomegranate 4381, pepper 2725, orange 1840; banana 458, peach 327, watermelon 315, plum 282.
 - Early signal (1 day): grapefruit 490, blood orange 259, both 0 comments. Weak so far; at the same age pepper had 1660.
-- Cleanup: blood orange and grapefruit are sent, removed from uploads. Kevin must build and approve new fruits.
+- Cleanup: blood orange and grapefruit are sent, removed from uploads.
+- Evening: Kevin wants a post every day and allows any motif (fruits, food, objects). Built two new red/bold projects from the orange renderer: redonion (purple rings) and cheese (yellow paste in red wax).
+- 19:45 red onion with "Would you still eat it?"; 21:45 cheese with new end question "What should I cut next?" (fits non-fruits, aims for comments like "Which fruit should be next?").
+- Daily task updated: it now builds new motifs itself when fewer than two unused projects are left.
