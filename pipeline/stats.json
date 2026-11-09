@@ -966,5 +966,251 @@
         "metricsUpdatedAt": "2026-11-08T05:15:31.492Z"
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-11-09T07:45:00Z",
+    "note": "Daily run 2026-11-09 08:45 Berlin. Cheese and red onion only ~11-13h old.",
+    "posts": [
+      {
+        "postId": "6af0bbe251492b796e532542",
+        "sentAt": "2026-11-08T20:46:52.055Z",
+        "fruit": "cheese",
+        "endQuestion": "What should I cut next?",
+        "views": 529,
+        "likes": 6,
+        "comments": 1,
+        "shares": 2,
+        "avgWatch": 9.99,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6af0bbe1d6bbae6fa103b30d",
+        "sentAt": "2026-11-08T18:46:59.114Z",
+        "fruit": "redonion",
+        "endQuestion": "Would you still eat it?",
+        "views": 283,
+        "likes": 5,
+        "comments": 0,
+        "shares": 1,
+        "avgWatch": 9.95,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6aee8741004e4879a72a7439",
+        "sentAt": "2026-11-07T18:46:47.987Z",
+        "fruit": "grapefruit",
+        "endQuestion": "Which fruit should be next?",
+        "views": 529,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "avgWatch": 9.75,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6aee8741d6bbae6fa15caf6b",
+        "sentAt": "2026-11-07T11:46:56.046Z",
+        "fruit": "bloodorange",
+        "endQuestion": "Would you still eat it?",
+        "views": 265,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "avgWatch": 10.87,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6aea7ce487b7c6d24c7fb145",
+        "sentAt": "2026-11-05T18:47:07.131Z",
+        "fruit": "pepper",
+        "endQuestion": "Could you eat all of it?",
+        "views": 2727,
+        "likes": 20,
+        "comments": 1,
+        "shares": 1,
+        "avgWatch": 9.38,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6aea7ce24c41ba80aa4a9b69",
+        "sentAt": "2026-11-05T11:46:59.901Z",
+        "fruit": "plum",
+        "endQuestion": "Which fruit should be next?",
+        "views": 285,
+        "likes": 10,
+        "comments": 0,
+        "shares": 0,
+        "avgWatch": 10.83,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6aea74ebff887f055cd9558c",
+        "sentAt": "2026-11-04T18:47:10.424Z",
+        "fruit": "tomato",
+        "endQuestion": "Ketchup or salad?",
+        "views": 4724,
+        "likes": 51,
+        "comments": 2,
+        "shares": 3,
+        "avgWatch": 10.43,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6aea74e94c41ba80aa47e113",
+        "sentAt": "2026-11-04T11:47:01.478Z",
+        "fruit": "pomegranate",
+        "endQuestion": "Would you eat every seed?",
+        "views": 4385,
+        "likes": 35,
+        "comments": 1,
+        "shares": 2,
+        "avgWatch": 9.61,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6ae72414cf3a3112f3f459fa",
+        "sentAt": "2026-11-01T18:46:47.641Z",
+        "fruit": "cherry",
+        "endQuestion": "Rate this from 1 to 10",
+        "views": 4494,
+        "likes": 25,
+        "comments": 1,
+        "shares": 1,
+        "avgWatch": 8.82,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6ae7240eab019b9087575ddc",
+        "sentAt": "2026-11-01T11:46:48.224Z",
+        "fruit": "lychee",
+        "endQuestion": "Which fruit should be next?",
+        "views": 4972,
+        "likes": 42,
+        "comments": 4,
+        "shares": 3,
+        "avgWatch": 9.72,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6ae634f51ee172cd6db8a1c1",
+        "sentAt": "2026-10-31T18:55:03.082Z",
+        "fruit": "strawberry",
+        "endQuestion": "Rate this from 1 to 10",
+        "views": 4965,
+        "likes": 22,
+        "comments": 2,
+        "shares": 0,
+        "avgWatch": 8.65,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6ae5d292b84259308bd34234",
+        "sentAt": "2026-10-31T11:46:59.051Z",
+        "fruit": "banana",
+        "endQuestion": "Could you eat all of it?",
+        "views": 463,
+        "likes": 17,
+        "comments": 1,
+        "shares": 0,
+        "avgWatch": 11.19,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.243Z"
+      },
+      {
+        "postId": "6ae47296609b6f28735e337e",
+        "sentAt": "2026-10-30T18:46:56.470Z",
+        "fruit": "peach",
+        "endQuestion": "Would you still eat it?",
+        "views": 327,
+        "likes": 13,
+        "comments": 1,
+        "shares": 0,
+        "avgWatch": 7.6,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      },
+      {
+        "postId": "6ae4728e2b20a8780e84ce3c",
+        "sentAt": "2026-10-30T11:47:03.054Z",
+        "fruit": "apple",
+        "endQuestion": "Would you still eat it?",
+        "views": 4954,
+        "likes": 107,
+        "comments": 3,
+        "shares": 4,
+        "avgWatch": 10.23,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      },
+      {
+        "postId": "6ae39d4fedeeb9d716a9b1df",
+        "sentAt": "2026-10-29T18:45:00.000Z",
+        "fruit": "watermelon",
+        "endQuestion": "Would you still eat it?",
+        "views": 317,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0,
+        "avgWatch": 8.75,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      },
+      {
+        "postId": "6ae360d548c4c0d324efa9f7",
+        "sentAt": "2026-10-29T11:45:00.000Z",
+        "fruit": "orange",
+        "endQuestion": "Would you still eat it?",
+        "views": 1860,
+        "likes": 65,
+        "comments": 3,
+        "shares": 3,
+        "avgWatch": 11.68,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      },
+      {
+        "postId": "6ae360d548c4c0d324efa9fb",
+        "sentAt": "2026-10-28T18:45:02.000Z",
+        "fruit": "lemon",
+        "endQuestion": "Would you still eat it?",
+        "views": 517,
+        "likes": 31,
+        "comments": 2,
+        "shares": 1,
+        "avgWatch": 14.67,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      },
+      {
+        "postId": "6ae360d548c4c0d324efaa05",
+        "sentAt": "2026-10-28T11:45:00.000Z",
+        "fruit": "tomato",
+        "endQuestion": "Would you still eat it?",
+        "views": 396,
+        "likes": 22,
+        "comments": 1,
+        "shares": 1,
+        "avgWatch": 13.15,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      },
+      {
+        "postId": "6ae360d548c4c0d324efa9fd",
+        "sentAt": "2026-10-27T18:45:00.000Z",
+        "fruit": "dragonfruit",
+        "endQuestion": "",
+        "views": 358,
+        "likes": 31,
+        "comments": 0,
+        "shares": 2,
+        "avgWatch": 9.48,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      },
+      {
+        "postId": "6ae360d548c4c0d324efaa0d",
+        "sentAt": "2026-10-27T11:45:00.000Z",
+        "fruit": "oddlysatisfying",
+        "endQuestion": "",
+        "views": 301,
+        "likes": 17,
+        "comments": 1,
+        "shares": 0,
+        "avgWatch": 8.95,
+        "metricsUpdatedAt": "2026-11-09T04:16:27.244Z"
+      }
+    ]
   }
 ]
