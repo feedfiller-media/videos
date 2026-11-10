@@ -42,3 +42,10 @@
 - Fully counted (48h+): lychee 4972, strawberry 4965, apple 4954, tomato 4724, cherry 4494, pomegranate 4385, pepper 2727, orange 1860; grapefruit 529, plum 285, blood orange 265.
 - Early signal (~12h): cheese 529 with 1 comment and 2 shares (better than any pale fruit at that age), red onion 283 (purple, weak like plum). Bright red and bold remains the rule, so both new motifs are vivid red.
 - 12:45 raspberry with "Which fruit should be next?" (most comments); 19:45 jawbreaker with "What should I cut next?" (non-fruit, cheese got a comment with it).
+
+## 2026-11-10
+- Nothing scheduled for today and no unused project left, so built two new projects from the raspberry renderer: radish (bright red skin, crisp white flesh with pink rim, like lychee which is still the top video) and cakepop (red velvet crumb inside, glossy pink candy coat with sprinkles).
+- Fully counted (48h+): lychee 4976, strawberry 4965, apple 4964, tomato 4728, cherry 4495, pomegranate 4391, pepper 2730, orange 1872; grapefruit 532, plum 285, blood orange 266.
+- Early signal: cheese 776 (1 comment, 2 shares, best of the new motifs), red onion 320; raspberry 282 (~20h) and jawbreaker 256 (~13h) weak so far despite red. Newer posts all start lower, so reach may matter more than colour now; food motifs (cheese) hold up best recently.
+- 12:45 radish with "Would you still eat it?" (red outside, white inside like lychee/apple); 19:45 cake pop with "What should I cut next?" (food item, follows cheese).
+- Cleanup: raspberry and jawbreaker sent, removed from uploads.
