@@ -49,3 +49,10 @@
 - Early signal: cheese 776 (1 comment, 2 shares, best of the new motifs), red onion 320; raspberry 282 (~20h) and jawbreaker 256 (~13h) weak so far despite red. Newer posts all start lower, so reach may matter more than colour now; food motifs (cheese) hold up best recently.
 - 12:45 radish with "Would you still eat it?" (red outside, white inside like lychee/apple); 19:45 cake pop with "What should I cut next?" (food item, follows cheese).
 - Cleanup: raspberry and jawbreaker sent, removed from uploads.
+
+## 2026-11-11
+- Nothing scheduled for today and no unused project left, so built two new projects from the red onion renderer: beet (vivid magenta red flesh with pale pink rings, dark red skin) and scotchegg (golden crumb crust, sausage layer, egg white, orange yolk).
+- Fully counted (48h+): lychee 4980, apple 4967, strawberry 4968, tomato 4729, cherry 4496, pomegranate 4392, pepper 2733, orange 1876; cheese 779 (best new motif), grapefruit 533, red onion 325, raspberry 294, jawbreaker 291, plum 285, blood orange 266.
+- Early signal: radish 270 (~20h), cake pop 265 (~13h), same level as raspberry and jawbreaker at that age. Since Nov 7 almost every post stalls near 270, only cheese broke out; reach seems capped, colour alone no longer decides.
+- 12:45 beetroot with "Would you still eat it?" (strongest red left among round vegetables, striking rings inside); 19:45 scotch egg with "What should I cut next?" (food with layered inside, follows the cheese signal).
+- Cleanup: radish and cake pop sent, removed from uploads.

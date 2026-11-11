@@ -14,8 +14,9 @@ FRUITS = [
     ("redonion", "redonion", "\U0001F9C5"), ("cheese", "cheese", "\U0001F9C0"),
     ("raspberry", "raspberry", "\u2764\ufe0f"), ("jawbreaker", "jawbreaker", "\U0001F36C"),
     ("radish", "radish", "\u2764\ufe0f"), ("cakepop", "cakepop", "\U0001F382"),
+    ("beet", "beetroot", "\u2764\ufe0f"), ("scotchegg", "scotchegg", "\U0001F95A"),
 ]
-NAMES = {"bloodorange": "blood orange", "redonion": "red onion", "cakepop": "cake pop"}   # caption wording when it differs from the hashtag
+NAMES = {"bloodorange": "blood orange", "redonion": "red onion", "cakepop": "cake pop", "scotchegg": "scotch egg"}   # caption wording when it differs from the hashtag
 END_TEXTS = ["Rate this from 1 to 10", "Would you still eat it?", "Which fruit should be next?", "Could you eat all of it?",
              "Be honest: how many cuts was that?", "Satisfying or not?", "Comment your score", "Would you try this?", "What should I cut next?"]
 
@@ -27,7 +28,7 @@ def render(slot, day_idx, date, rng):
     shutil.copytree(os.path.join(HERE, "fruits", proj), work)
     end = os.environ.get(f"END_{slot + 1}") or rng.choice(END_TEXTS)
     env = dict(os.environ, END_TEXT=end, SIM_SEED=str(rng.randint(1, 9999)))
-    base_yaw = {"cherry": 0.0, "pomegranate": 0.0, "tomato2": 0.0, "strawberry": -0.55, "lychee": -0.35, "apple": 0.45, "orange": 0.45, "plum": 0.3, "pepper": 0.3, "bloodorange": 0.45, "grapefruit": 0.45, "redonion": 0.45, "cheese": 0.45, "raspberry": 0.45, "jawbreaker": 0.45, "radish": 0.45, "cakepop": 0.45}[proj]
+    base_yaw = {"cherry": 0.0, "pomegranate": 0.0, "tomato2": 0.0, "strawberry": -0.55, "lychee": -0.35, "apple": 0.45, "orange": 0.45, "plum": 0.3, "pepper": 0.3, "bloodorange": 0.45, "grapefruit": 0.45, "redonion": 0.45, "cheese": 0.45, "raspberry": 0.45, "jawbreaker": 0.45, "radish": 0.45, "cakepop": 0.45, "beet": 0.45, "scotchegg": 0.45}[proj]
     env["YAW_OVERRIDE"] = str(round(base_yaw + rng.uniform(-0.25, 0.25), 3))   # every video looks a bit different
     os.makedirs(os.path.join(work, "cache"), exist_ok=True)
     subprocess.run([sys.executable, "main_t.py"], cwd=work, env=env, check=True, stdout=subprocess.DEVNULL)
