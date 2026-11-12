@@ -56,3 +56,10 @@
 - Early signal: radish 270 (~20h), cake pop 265 (~13h), same level as raspberry and jawbreaker at that age. Since Nov 7 almost every post stalls near 270, only cheese broke out; reach seems capped, colour alone no longer decides.
 - 12:45 beetroot with "Would you still eat it?" (strongest red left among round vegetables, striking rings inside); 19:45 scotch egg with "What should I cut next?" (food with layered inside, follows the cheese signal).
 - Cleanup: radish and cake pop sent, removed from uploads.
+
+## 2026-11-12
+- Nothing scheduled for today and no unused project left, so built two new projects from the beet renderer: pricklypear (magenta red skin with pale spine dots, vivid magenta flesh with black seeds) and fig (purple red skin, cream rind, rose red strands with golden seeds).
+- Fully counted (48h+): lychee 4986, apple 4972, strawberry 4972, tomato 4733, cherry 4497, pomegranate 4396, pepper 2736, orange 1876 (older stand); cheese 780, grapefruit 534, red onion 327, raspberry 295, jawbreaker 295, plum 285, radish 274, cake pop 272, blood orange 266.
+- Early signal: beetroot 263 (~20h) with 2 comments on "Would you still eat it?" (most comments since lychee), scotch egg 225 (~13h). Views still stall near 270, so comments are the lever; prickly pear is the most vivid unused red and fig has a striking inside.
+- 12:45 prickly pear with "Would you still eat it?" (beet just got comments with it); 19:45 fig with "Which fruit should be next?" (fruit, top comment driver).
+- Cleanup: beetroot and scotch egg sent, removed from uploads.
