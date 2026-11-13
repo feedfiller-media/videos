@@ -63,3 +63,10 @@
 - Early signal: beetroot 263 (~20h) with 2 comments on "Would you still eat it?" (most comments since lychee), scotch egg 225 (~13h). Views still stall near 270, so comments are the lever; prickly pear is the most vivid unused red and fig has a striking inside.
 - 12:45 prickly pear with "Would you still eat it?" (beet just got comments with it); 19:45 fig with "Which fruit should be next?" (fruit, top comment driver).
 - Cleanup: beetroot and scotch egg sent, removed from uploads.
+
+## 2026-11-13
+- Nothing scheduled for today and no unused project left, so built two new projects from the fig renderer: rambutan (vivid red husk with long hairs, pearly white flesh, brown seed; close relative of lychee, still the top video) and candyapple (glossy bright red candy coat, cream apple flesh with star core).
+- Fully counted (48h+): lychee 4991, strawberry 4973, apple 4972, tomato 4734, cherry 4498, pomegranate 4396, pepper 2736; cheese 780, grapefruit 534, red onion 330, jawbreaker 299, raspberry 295, radish 274, cake pop 273, beetroot 267, scotch egg 241.
+- Early signal: fig 341 (~13h) with 1 comment on "Which fruit should be next?", best start since cheese; prickly pear 256 (~20h) weak. Red with a striking white inside (lychee, apple) is still the strongest pattern.
+- First rambutan render looked like a dotted strawberry, so the husk shader got long curved hairs and only that video was re-rendered.
+- 12:45 rambutan with "Which fruit should be next?" (fruit, fig just got a comment with it); 19:45 candy apple with "What should I cut next?" (glossy red food item, follows the cheese signal).
