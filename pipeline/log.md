@@ -70,3 +70,10 @@
 - Early signal: fig 341 (~13h) with 1 comment on "Which fruit should be next?", best start since cheese; prickly pear 256 (~20h) weak. Red with a striking white inside (lychee, apple) is still the strongest pattern.
 - First rambutan render looked like a dotted strawberry, so the husk shader got long curved hairs and only that video was re-rendered.
 - 12:45 rambutan with "Which fruit should be next?" (fruit, fig just got a comment with it); 19:45 candy apple with "What should I cut next?" (glossy red food item, follows the cheese signal).
+
+## 2026-11-14
+- Nothing scheduled for today and no unused project left, so built two new projects from the candy apple renderer: donut (round jam donut, glossy bright red glaze with sprinkles, golden crumb, red jam core) and mochi (vivid pink red rice dough with starch dusting, strawberry ice cream inside with red swirls).
+- Fully counted (48h+): lychee 4992, strawberry 4973, apple 4972, tomato 4736, cherry 4498, pomegranate 4396, pepper 2736; cheese 782, grapefruit 534, fig 344, red onion 336, jawbreaker 308, raspberry 295, radish 274, cake pop 273, beetroot 269, prickly pear 258, scotch egg 244.
+- Early signal: candy apple 1388 (~13h, 1 share), the best start since early November and far ahead of everything at that age; rambutan 191 (~20h) weak. Glossy red sweet food (candy apple, cheese) now beats plain fruit, so both new motifs are red or pink treats.
+- First donut render looked like a red sprinkle ball (glaze covered everything), so the glaze was limited to the top with golden dough visible below and only that video was re-rendered.
+- 12:45 donut with "What should I cut next?" (glossy red treat like candy apple, same question); 19:45 mochi with "Rate this from 1 to 10" (variation, invites score comments).
