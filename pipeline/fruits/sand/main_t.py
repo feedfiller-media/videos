@@ -40,6 +40,7 @@ from extras import cherry_stem
 EXL = np.zeros((0, cherry_stem().shape[1]), np.float32)
 PILE = {}
 def extras_verts(t):
+    if len(EXL) == 0: return EXL.copy()
     pos = EXL[:, :3] @ RMAT.T + C; nrm = EXL[:, 3:6] @ RMAT.T
     if t >= REL:
         if t < RW0: s = min(1.0, (t - REL) / 1.1); s = s * s * (3 - 2 * s)
