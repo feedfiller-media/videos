@@ -77,3 +77,10 @@
 - Early signal: candy apple 1388 (~13h, 1 share), the best start since early November and far ahead of everything at that age; rambutan 191 (~20h) weak. Glossy red sweet food (candy apple, cheese) now beats plain fruit, so both new motifs are red or pink treats.
 - First donut render looked like a red sprinkle ball (glaze covered everything), so the glaze was limited to the top with golden dough visible below and only that video was re-rendered.
 - 12:45 donut with "What should I cut next?" (glossy red treat like candy apple, same question); 19:45 mochi with "Rate this from 1 to 10" (variation, invites score comments).
+
+## 2026-11-15
+- Cake (red velvet box) and kinetic sand (rainbow layers) were already built and rendered by an earlier session today after Kevin asked for new shapes and substances; frames checked (knife in first frame, cuts visible, text readable, 28.8s with audio) and both scheduled instead of rendering again.
+- Fully counted (48h+): candy apple 1653 (best new motif since early November), fig 344, rambutan 195; older posts flat (lychee 4992, tomato 4738, pepper 2736, cheese 782).
+- Early signal: mochi 1254 (~13h, 2 comments, 15 likes) with "Rate this from 1 to 10", donut 492 (~20h, 1 comment). Sweet treats (candy apple, mochi) clearly lead, so a red cake fits; kinetic sand tests a new non-food substance.
+- 12:45 cake with "Would you still eat it?"; 19:45 kinetic sand with "What should I cut next?" (non-food, comment driver). Caption name for kinetic sand added to run.py.
+- Cleanup: donut and mochi sent, removed from uploads.

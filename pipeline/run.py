@@ -18,9 +18,9 @@ FRUITS = [
     ("fig", "fig", "\U0001F49C"), ("pricklypear", "pricklypear", "\U0001F335"),
     ("rambutan", "rambutan", "\u2764\ufe0f"), ("candyapple", "candyapple", "\U0001F36D"),
     ("donut", "donut", "\U0001F369"), ("mochi", "mochi", "\U0001F361"),
-    ("cake", "cake", "\U0001F370"), ("sand", "kineticsand", ""),
+    ("cake", "cake", "\U0001F370"), ("sand", "kineticsand", "\U0001F308"),
 ]
-NAMES = {"bloodorange": "blood orange", "redonion": "red onion", "cakepop": "cake pop", "scotchegg": "scotch egg", "pricklypear": "prickly pear", "candyapple": "candy apple"}   # caption wording when it differs from the hashtag
+NAMES = {"bloodorange": "blood orange", "redonion": "red onion", "cakepop": "cake pop", "scotchegg": "scotch egg", "pricklypear": "prickly pear", "candyapple": "candy apple", "kineticsand": "kinetic sand"}   # caption wording when it differs from the hashtag
 END_TEXTS = ["Rate this from 1 to 10", "Would you still eat it?", "Which fruit should be next?", "Could you eat all of it?",
              "Be honest: how many cuts was that?", "Satisfying or not?", "Comment your score", "Would you try this?", "What should I cut next?"]
 
