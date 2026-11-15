@@ -113,7 +113,7 @@ def _build_sphere(nx, ny, nz):
 SZ = 1.0
 SX = 1.32          # lemon: long axis along x
 TIP = 0.16         # pointed ends
-WS = (1.0, 1.0, 1.0); WK = 2.6
+WS = (0.80, 0.80, 0.80); WK = 2.6
 def fax(ax, t):
     return RM * WS[ax] * np.tanh(WK * np.asarray(t) / RM) / np.tanh(WK)
 def warp(P):                       # separable per-axis map: sphere -> rounded box, cut planes stay planes
