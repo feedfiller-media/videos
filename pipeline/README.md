@@ -25,3 +25,11 @@ Rules for the analysis:
 - Compare relatively (rank), change weights slowly, never drop a fruit after one weak video, keep some exploration.
 - Without usable data, fall back to the normal rotation. Kevin's screenshots override Buffer numbers.
 Video files live only on the `uploads` branch and are removed (orphan rebuild, force push) once Buffer reports them as sent.
+
+## New shapes (Kevin, 2026-11-15: "nicht nur Kugeln, neue Formen, neue Substanzen ausprobieren")
+- Prefer non-round motifs and new substances over yet another round fruit. Alternate: one new shape or substance per day if possible.
+- `cake` and `sand` are the templates for box shapes. Their geom.py uses a separable per-axis warp (`WS` = size per axis,
+  `WK` = boxiness, higher is sharper), and main_t.py moves the knife with `fax`, so cuts stay exactly on the object.
+  Copy one of them and change `WS`/`WK` and the two shader blocks in render.py (flesh: `fc>0.5` branch, skin: `else` branch).
+- Ideas: soap bar (pastel, swirl), butter block, red wax cheese block, chocolate bar, jelly cube, layered sponge cake,
+  tofu, watermelon cube, ice cube. No brands or logos.
