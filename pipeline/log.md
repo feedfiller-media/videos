@@ -84,3 +84,10 @@
 - Early signal: mochi 1254 (~13h, 2 comments, 15 likes) with "Rate this from 1 to 10", donut 492 (~20h, 1 comment). Sweet treats (candy apple, mochi) clearly lead, so a red cake fits; kinetic sand tests a new non-food substance.
 - 12:45 cake with "Would you still eat it?"; 19:45 kinetic sand with "What should I cut next?" (non-food, comment driver). Caption name for kinetic sand added to run.py.
 - Cleanup: donut and mochi sent, removed from uploads.
+
+## 2026-11-16
+- Nothing scheduled for today and no unused project left, so built two new box projects from the cake renderer: cheesecake (cream cheese with red raspberry swirls, biscuit crust, glossy red glaze with drips) and neapolitan (ice cream brick with chocolate, vanilla and strawberry layers, pink top).
+- First renders had grey looking cream and too thin bottom layers (box warp squeezes the outer layers), so both shaders got brighter cream, flatter bump and wider layer bands, and both were re-rendered.
+- Early signal: cake 4569 views after ~10h (39 likes, 2 comments, 4 shares) with "Would you still eat it?", by far the best start ever and already near the top red fruits; kinetic sand 354 (~3h at metric time, too early). Fully counted: mochi 1483 (2 comments), candy apple 1658, donut 496, fig 345, rambutan 196.
+- Box shaped red or pink desserts are the strongest pattern now, so both new motifs follow cake.
+- 12:45 cheesecake with "Would you still eat it?" (same question as cake); 19:45 neapolitan ice cream with "What should I cut next?" (comment driver).
