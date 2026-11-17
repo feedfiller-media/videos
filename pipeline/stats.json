@@ -2794,5 +2794,211 @@
         "shares": 0
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-11-17T07:41:00Z",
+    "note": "Daily run 2026-11-17 Berlin. Cheesecake ~20h, neapolitan ~13h old.",
+    "posts": [
+      {
+        "postId": "6afacc3f60a910801c82bec1",
+        "sentAt": "2026-11-16T18:47:12.586Z",
+        "fruit": "neapolitan",
+        "endQuestion": "cream \ud83c\udf68 What should I cut next?",
+        "views": 166,
+        "likes": 0,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6afacc3fa869c35e5bd1b02a",
+        "sentAt": "2026-11-16T11:47:00.578Z",
+        "fruit": "cheesecake",
+        "endQuestion": "Would you still eat it?",
+        "views": 4261,
+        "likes": 47,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6af9629cc5b364e0623fb696",
+        "sentAt": "2026-11-15T18:46:51.419Z",
+        "fruit": "kineticsand",
+        "endQuestion": "\ud83c\udf08 What should I cut next?",
+        "views": 2803,
+        "likes": 15,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af9629be86a5789a6f81c7a",
+        "sentAt": "2026-11-15T11:46:53.691Z",
+        "fruit": "cake",
+        "endQuestion": "Would you still eat it?",
+        "views": 4581,
+        "likes": 39,
+        "comments": 2,
+        "shares": 4
+      },
+      {
+        "postId": "6af81c4d78196a0a974e894b",
+        "sentAt": "2026-11-14T18:46:49.254Z",
+        "fruit": "mochi",
+        "endQuestion": "Rate this from 1 to 10",
+        "views": 1484,
+        "likes": 15,
+        "comments": 2,
+        "shares": 0
+      },
+      {
+        "postId": "6af822add8bd2962e419e5ee",
+        "sentAt": "2026-11-14T11:46:56.408Z",
+        "fruit": "donut",
+        "endQuestion": "What should I cut next?",
+        "views": 499,
+        "likes": 4,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6af6c8cfac315c828ef52b52",
+        "sentAt": "2026-11-13T18:47:07.005Z",
+        "fruit": "candyapple",
+        "endQuestion": "\ud83c\udf6d What should I cut next?",
+        "views": 1662,
+        "likes": 8,
+        "comments": 0,
+        "shares": 1
+      },
+      {
+        "postId": "6af6cf066d858908964d29c5",
+        "sentAt": "2026-11-13T11:47:02.416Z",
+        "fruit": "rambutan",
+        "endQuestion": "Which fruit should be next?",
+        "views": 198,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af57bad15999d2da120565a",
+        "sentAt": "2026-11-12T18:46:54.720Z",
+        "fruit": "fig",
+        "endQuestion": "Which fruit should be next?",
+        "views": 346,
+        "likes": 4,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6af577de3edeaff13c0b2eca",
+        "sentAt": "2026-11-12T11:46:56.132Z",
+        "fruit": "pricklypear",
+        "endQuestion": "\ud83c\udf35 Would you still eat it?",
+        "views": 265,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af4249e3ccc64b07b83c4d5",
+        "sentAt": "2026-11-11T18:46:51.577Z",
+        "fruit": "scotchegg",
+        "endQuestion": "\ud83e\udd5a What should I cut next?",
+        "views": 255,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af4249d27e91ec769bd6bc2",
+        "sentAt": "2026-11-11T11:47:02.565Z",
+        "fruit": "beetroot",
+        "endQuestion": "Would you still eat it?",
+        "views": 270,
+        "likes": 1,
+        "comments": 2,
+        "shares": 0
+      },
+      {
+        "postId": "6af2d65d07c5e29b2ea4dca9",
+        "sentAt": "2026-11-10T18:46:57.832Z",
+        "fruit": "cakepop",
+        "endQuestion": "\ud83c\udf82 What should I cut next?",
+        "views": 275,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af2d65c07c5e29b2ea4dc21",
+        "sentAt": "2026-11-10T11:46:48.531Z",
+        "fruit": "radish",
+        "endQuestion": "Would you still eat it?",
+        "views": 276,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af180aacac9d7525f7bc16e",
+        "sentAt": "2026-11-09T18:47:05.329Z",
+        "fruit": "jawbreaker",
+        "endQuestion": "What should I cut next?",
+        "views": 330,
+        "likes": 9,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af180a97522f65ac0cdabf4",
+        "sentAt": "2026-11-09T11:46:48.480Z",
+        "fruit": "raspberry",
+        "endQuestion": "Which fruit should be next?",
+        "views": 296,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af0bbe251492b796e532542",
+        "sentAt": "2026-11-08T20:46:52.055Z",
+        "fruit": "cheese",
+        "endQuestion": "What should I cut next?",
+        "views": 783,
+        "likes": 8,
+        "comments": 1,
+        "shares": 2
+      },
+      {
+        "postId": "6af0bbe1d6bbae6fa103b30d",
+        "sentAt": "2026-11-08T18:46:59.114Z",
+        "fruit": "redonion",
+        "endQuestion": "\ud83e\uddc5 Would you still eat it?",
+        "views": 359,
+        "likes": 8,
+        "comments": 1,
+        "shares": 1
+      },
+      {
+        "postId": "6aee8741004e4879a72a7439",
+        "sentAt": "2026-11-07T18:46:47.987Z",
+        "fruit": "grapefruit",
+        "endQuestion": "fruit should be next?",
+        "views": 534,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6aee8741d6bbae6fa15caf6b",
+        "sentAt": "2026-11-07T11:46:56.046Z",
+        "fruit": "bloodorange",
+        "endQuestion": "\ud83d\udd34 Would you still eat it?",
+        "views": 266,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
   }
 ]

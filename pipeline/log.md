@@ -91,3 +91,11 @@
 - Early signal: cake 4569 views after ~10h (39 likes, 2 comments, 4 shares) with "Would you still eat it?", by far the best start ever and already near the top red fruits; kinetic sand 354 (~3h at metric time, too early). Fully counted: mochi 1483 (2 comments), candy apple 1658, donut 496, fig 345, rambutan 196.
 - Box shaped red or pink desserts are the strongest pattern now, so both new motifs follow cake.
 - 12:45 cheesecake with "Would you still eat it?" (same question as cake); 19:45 neapolitan ice cream with "What should I cut next?" (comment driver).
+
+## 2026-11-17
+- Nothing scheduled for today and no unused project left, so built two new box projects from the cheesecake renderer: lasagna (pasta sheets, red meat sauce, white bechamel, golden melted cheese top with browned spots) and turkish delight (translucent rose pink jelly with green pistachios, powdered sugar coat).
+- Early signal: cheesecake 4261 views after ~9h (47 likes) with "Would you still eat it?", almost the same start as cake; neapolitan 166 (~2h at metric time, too early). Fully counted: kinetic sand 2803 (best non-food so far), cake 4581, mochi 1484, candy apple 1662, donut 499.
+- Box shaped red food keeps winning (cake, cheesecake), so lasagna follows that with a savory red twist; turkish delight is a vivid pink sweet block like mochi.
+- First turkish delight render was covered in white powder and looked like pink marble, so the dusting was reduced and only that video was re-rendered.
+- 12:45 lasagna with "Would you still eat it?" (same question as cake and cheesecake); 19:45 turkish delight with "What should I cut next?" (comment driver).
+- Cleanup: cheesecake and neapolitan sent, removed from uploads.
