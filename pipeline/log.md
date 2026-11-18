@@ -99,3 +99,9 @@
 - First turkish delight render was covered in white powder and looked like pink marble, so the dusting was reduced and only that video was re-rendered.
 - 12:45 lasagna with "Would you still eat it?" (same question as cake and cheesecake); 19:45 turkish delight with "What should I cut next?" (comment driver).
 - Cleanup: cheesecake and neapolitan sent, removed from uploads.
+
+## 2026-11-18
+- Nothing scheduled for today and no unused project left, so built two new box projects from the cheesecake renderer: strawberry shortcake (sponge and whipped cream layers with strawberry halves inside, glossy strawberry top) and salmon (bright orange fillet block with white chevron fat lines, silver skin at the bottom).
+- Box shaped food is now a clear pattern: cake 4590, cheesecake 4293, neapolitan 3959 (jumped from 166 after the first day), lasagna 4100 after ~20h. Turkish delight 100 after ~13h (too early, neapolitan started just as slow). Kinetic sand 2818, mochi 1484, candy apple 1662.
+- First shortcake render had plain grey looking cream sides, so the sides now show sponge and cream layers under a thin cream wash with bigger strawberries on top; only that video was re-rendered.
+- 12:45 strawberry shortcake with "Would you still eat it?" (red dessert box like cake and cheesecake); 19:45 salmon with "What should I cut next?" (vivid orange red savory block like lasagna, comment driver).
