@@ -105,3 +105,9 @@
 - Box shaped food is now a clear pattern: cake 4590, cheesecake 4293, neapolitan 3959 (jumped from 166 after the first day), lasagna 4100 after ~20h. Turkish delight 100 after ~13h (too early, neapolitan started just as slow). Kinetic sand 2818, mochi 1484, candy apple 1662.
 - First shortcake render had plain grey looking cream sides, so the sides now show sponge and cream layers under a thin cream wash with bigger strawberries on top; only that video was re-rendered.
 - 12:45 strawberry shortcake with "Would you still eat it?" (red dessert box like cake and cheesecake); 19:45 salmon with "What should I cut next?" (vivid orange red savory block like lasagna, comment driver).
+
+## 2026-11-19
+- Nothing scheduled for today and no unused project left, so built two new box projects from the salmon renderer: battenberg cake (pink and yellow sponge checkerboard with apricot jam seams, marzipan wrap, checkerboard visible at both ends) and tuna (deep ruby red raw tuna block with faint pale lines).
+- Fully counted: lasagna 4123, neapolitan 3972, cheesecake 4300, cake 4594, kinetic sand 2822. Turkish delight 1528 after ~37h (climbed from 100, slow start like neapolitan). Early signal: shortcake 2909 after ~7h at metric time (41 likes), strong start; salmon no data yet.
+- Box shaped food in red or pink keeps winning, so battenberg (pink dessert box with a striking inside) and tuna (strongest red savory block, follows salmon) continue that pattern.
+- 12:45 battenberg cake with "Would you still eat it?" (same question as the cake family); 19:45 tuna with "What should I cut next?" (comment driver).
