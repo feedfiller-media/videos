@@ -110,4 +110,5 @@
 - Nothing scheduled for today and no unused project left, so built two new box projects from the salmon renderer: battenberg cake (pink and yellow sponge checkerboard with apricot jam seams, marzipan wrap, checkerboard visible at both ends) and tuna (deep ruby red raw tuna block with faint pale lines).
 - Fully counted: lasagna 4123, neapolitan 3972, cheesecake 4300, cake 4594, kinetic sand 2822. Turkish delight 1528 after ~37h (climbed from 100, slow start like neapolitan). Early signal: shortcake 2909 after ~7h at metric time (41 likes), strong start; salmon no data yet.
 - Box shaped food in red or pink keeps winning, so battenberg (pink dessert box with a striking inside) and tuna (strongest red savory block, follows salmon) continue that pattern.
+- First battenberg render showed only a plain yellow marzipan block (checkerboard ran along the wrong axis), so the pattern now faces the camera on the front; only that video was re-rendered.
 - 12:45 battenberg cake with "Would you still eat it?" (same question as the cake family); 19:45 tuna with "What should I cut next?" (comment driver).
