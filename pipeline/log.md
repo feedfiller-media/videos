@@ -117,5 +117,6 @@
 - Nothing scheduled for today and no unused project left, so built two new box projects: rainbow cake (from shortcake: six vivid sponge layers red to purple with thin cream between, semi naked sides, white top with rainbow sprinkles) and wagyu beef (from tuna: bright red meat block with dense white fat marbling).
 - Fully counted: shortcake 4212, salmon 3875, lasagna 4133, cheesecake 4304, cake 4600, neapolitan 3978, turkish delight 1546. Early signal: battenberg 3569 after ~20h (38 likes), tuna 1243 after ~13h (slower than salmon at the same age, still early).
 - Box shaped food stays strong; rainbow cake gives the cake family a very colorful inside (kinetic sand rainbow did 2800 as non food), wagyu follows salmon and lasagna as a vivid red savory block with a striking marbled cut face.
+- First wagyu render was mostly white with red patches (marbling far too dense), so the fat thresholds were raised to about 30 percent fat; only that video was re-rendered.
 - 12:45 rainbow cake with "Would you still eat it?" (cake family question); 19:45 wagyu beef with "What should I cut next?" (comment driver).
 - Cleanup: battenberg and tuna sent, removed from uploads.
