@@ -120,3 +120,10 @@
 - First wagyu render was mostly white with red patches (marbling far too dense), so the fat thresholds were raised to about 30 percent fat; only that video was re-rendered.
 - 12:45 rainbow cake with "Would you still eat it?" (cake family question); 19:45 wagyu beef with "What should I cut next?" (comment driver).
 - Cleanup: battenberg and tuna sent, removed from uploads.
+
+## 2026-11-21
+- Nothing scheduled for today and no unused project left, so built two new box projects: strawberry mousse cake (from shortcake: thin sponge base, red jam line, thick pink mousse with strawberry pieces, glossy red mirror glaze with drips) and bacon slab (from wagyu: wavy stripes of red lean and white fat, pale golden rind on top).
+- Fully counted: battenberg 3589, salmon 3884, shortcake 4213, lasagna 4138, cheesecake 4307, cake 4601. Tuna 1641 after ~37h (slow riser like turkish delight). Early signal: rainbow cake only 228 at ~5h metric age (too early), wagyu no data yet.
+- Red or pink cakes are still the most reliable (cake, cheesecake, shortcake all above 4200), so mousse cake continues that; bacon is a striped red savory block like lasagna and salmon.
+- 12:45 strawberry mousse cake with "Would you still eat it?" (cake family question); 19:45 bacon with "What should I cut next?" (comment driver).
+- First bacon render had a white top and only one fat stripe, so it read like a cream cake; stripes were doubled and the top became red lean with fat streaks. Mousse cake sides were greyish pink and got a more saturated pink. Both re-rendered from the cached simulation.
