@@ -127,3 +127,11 @@
 - Red or pink cakes are still the most reliable (cake, cheesecake, shortcake all above 4200), so mousse cake continues that; bacon is a striped red savory block like lasagna and salmon.
 - 12:45 strawberry mousse cake with "Would you still eat it?" (cake family question); 19:45 bacon with "What should I cut next?" (comment driver).
 - First bacon render had a white top and only one fat stripe, so it read like a cream cake; stripes were doubled and the top became red lean with fat streaks. Mousse cake sides were greyish pink and got a more saturated pink. Both re-rendered from the cached simulation.
+
+## 2026-11-22
+- Nothing scheduled for today and no unused project left, so built two new box projects: red velvet cake (from rainbowcake: three bright red sponge layers with thick white cream cheese frosting, semi naked sides, white top with red crumbs) and salami (from bacon, rounder log shape: pink red cured meat with white fat dots and pepper specks, wrinkled red casing with white bloom).
+- Fully counted: wagyu 1830 after ~37h (ahead of tuna 1785, still rising), battenberg 3599, salmon 3888, shortcake 4215. Rainbow cake stuck at 248 after ~44h (multicolor did not work). Early signal: mousse cake only 304 after ~20h (shortcake had 2909 at 7h), bacon no data yet.
+- The last two cakes started weak, but rainbow was multicolor and one weak start is not a trend; red velvet returns to the plain red and white look of cake, cheesecake and shortcake (all above 4200). Salami continues the red savory block line (salmon, lasagna, wagyu) with a very recognizable cut face.
+- 12:45 red velvet cake with "Would you still eat it?" (cake family question); 19:45 salami with "What should I cut next?" (comment driver).
+- First salami render read as a plain red block; the casing shader got sliced open ends with the dotted cross section and the video was re-rendered from the cached simulation, but the ends face away from the camera, so the outside still mostly shows the red casing with white bloom. Inside pieces are pink red with white dots. Red velvet looked right on the first render.
+- Cleanup: moussecake and bacon sent, removed from uploads.
