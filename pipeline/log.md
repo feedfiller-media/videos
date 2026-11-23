@@ -135,3 +135,11 @@
 - 12:45 red velvet cake with "Would you still eat it?" (cake family question); 19:45 salami with "What should I cut next?" (comment driver).
 - First salami render read as a plain red block; the casing shader got sliced open ends with the dotted cross section and the video was re-rendered from the cached simulation, but the ends face away from the camera, so the outside still mostly shows the red casing with white bloom. Inside pieces are pink red with white dots. Red velvet looked right on the first render.
 - Cleanup: moussecake and bacon sent, removed from uploads.
+
+## 2026-11-23
+- Nothing scheduled for today and no unused project left, so built two new log projects from salami: strawberry swiss roll (pink sponge spiral with white cream, red jam line and strawberry pieces, pink skin with powdered sugar, spiral shown at both open ends) and beef wellington (rare red beef centre with pink ring and seared edge, dark mushroom layer, flaky golden pastry, egg washed lattice scored pastry outside).
+- Fully counted: bacon 3577 after ~37h and wagyu 3509 (both recovered strongly), mousse cake 3455 after ~44h (slow start, then caught up), battenberg 3611, salmon 3895. Rainbow cake stays at 256. Early signal: red velvet 960 at a few hours of metric age, salami no data yet.
+- Red savory blocks (wagyu, bacon) and red or pink cakes keep landing around 3500 to 4600; wellington has a bright red cut face inside a golden crust, swiss roll brings a pink and red spiral as a new cake shape.
+- 12:45 strawberry swiss roll with "Would you still eat it?" (cake family question); 19:45 beef wellington with "What should I cut next?" (comment driver).
+- First wellington render had swirly lattice lines on the pastry (read like wood grain) and too much pastry and mushroom inside; the lattice now uses straight diamond scoring per face and the pastry and mushroom layers were made thinner so more red beef shows. Only that video was re-rendered from the cached simulation. Swiss roll looked right on the first render.
+- Cleanup: redvelvet and salami sent, removed from uploads.
