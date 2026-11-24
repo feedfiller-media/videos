@@ -143,3 +143,11 @@
 - 12:45 strawberry swiss roll with "Would you still eat it?" (cake family question); 19:45 beef wellington with "What should I cut next?" (comment driver).
 - First wellington render had swirly lattice lines on the pastry (read like wood grain) and too much pastry and mushroom inside; the lattice now uses straight diamond scoring per face and the pastry and mushroom layers were made thinner so more red beef shows. Only that video was re-rendered from the cached simulation. Swiss roll looked right on the first render.
 - Cleanup: redvelvet and salami sent, removed from uploads.
+
+## 2026-11-24
+- Nothing scheduled for today and no unused project left, so built two new projects: sushi roll (from swissroll log: inside out roll with red tuna and green avocado core, thin nori ring, white rice, glossy orange red roe coating outside) and honey glazed ham (from wagyu box: rosy pink fibrous meat, white fat band, amber glaze with diamond scoring and cloves on top).
+- Fully counted: red velvet 3522 and salami 3238 after ~37h to ~44h (both in the usual red food range), bacon 3641, mousse cake 3472, wagyu 3525. Early signal: swiss roll 758 after ~20h (similar to mousse cake at the same age, which later caught up), wellington no data yet.
+- Red savory food and red or pink inside keeps landing around 3200 to 4600; sushi brings a bright red tuna centre with an orange red coat, ham is a pink savory block like salami and bacon.
+- 12:45 sushi roll with "Would you try this?" (fits sushi, splits opinions); 19:45 honey glazed ham with "What should I cut next?" (comment driver).
+- First renders showed moire rings: roe beads on the sushi and meat fibres on the ham were too fine; both patterns were made coarser (ham also a bit more saturated pink) and both videos re-rendered from the cached simulation.
+- Cleanup: swissroll and beefwellington sent, removed from uploads.
