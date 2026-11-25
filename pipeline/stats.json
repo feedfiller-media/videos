@@ -4442,5 +4442,211 @@
         "shares": 0
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-11-25T07:42:06Z",
+    "note": "Daily run 2026-11-25 Berlin. Sushi ~21h, ham ~14h old (0 = no data yet). Views keep highest known value.",
+    "posts": [
+      {
+        "postId": "6b0551682acbde8befbb82eb",
+        "sentAt": "2026-11-24T18:47:08.170Z",
+        "fruit": "ham",
+        "endQuestion": "ham \ud83c\udf56 What should I cut next?",
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b055168c2cc76a6ce67e7e1",
+        "sentAt": "2026-11-24T11:47:02.015Z",
+        "fruit": "sushi",
+        "endQuestion": "\ud83c\udf63 Would you try this?",
+        "views": 169,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b03fafd51038c931ba5f7a6",
+        "sentAt": "2026-11-23T18:46:57.225Z",
+        "fruit": "beefwellington",
+        "endQuestion": "\ud83e\udd69 What should I cut next?",
+        "views": 214,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b03fafcbeaafcdbe0d81c9e",
+        "sentAt": "2026-11-23T11:47:07.607Z",
+        "fruit": "swissroll",
+        "endQuestion": "roll \ud83c\udf53 Would you still eat it?",
+        "views": 3456,
+        "likes": 20,
+        "comments": 2,
+        "shares": 1
+      },
+      {
+        "postId": "6b02aaddd864a01105abc976",
+        "sentAt": "2026-11-22T18:47:03.343Z",
+        "fruit": "salami",
+        "endQuestion": "What should I cut next?",
+        "views": 3255,
+        "likes": 20,
+        "comments": 1,
+        "shares": 2
+      },
+      {
+        "postId": "6b02a69ecc364169c13b932c",
+        "sentAt": "2026-11-22T11:46:46.132Z",
+        "fruit": "redvelvet",
+        "endQuestion": "cake \ud83c\udf82 Would you still eat it?",
+        "views": 3527,
+        "likes": 43,
+        "comments": 1,
+        "shares": 2
+      },
+      {
+        "postId": "6b015cc8dd205ed779d0a081",
+        "sentAt": "2026-11-21T18:47:03.672Z",
+        "fruit": "bacon",
+        "endQuestion": "What should I cut next?",
+        "views": 3642,
+        "likes": 27,
+        "comments": 1,
+        "shares": 4
+      },
+      {
+        "postId": "6b015cc7dd205ed779d0a00f",
+        "sentAt": "2026-11-21T11:46:51.717Z",
+        "fruit": "moussecake",
+        "endQuestion": "cake \ud83c\udf53 Would you still eat it?",
+        "views": 3479,
+        "likes": 38,
+        "comments": 0,
+        "shares": 2
+      },
+      {
+        "postId": "6b000b9e7b0a126cebbfde34",
+        "sentAt": "2026-11-20T18:46:56.094Z",
+        "fruit": "wagyu",
+        "endQuestion": "\ud83e\udd69 What should I cut next?",
+        "views": 3529,
+        "likes": 26,
+        "comments": 0,
+        "shares": 2
+      },
+      {
+        "postId": "6b000345d5f8acdd0d83322a",
+        "sentAt": "2026-11-20T11:46:49.658Z",
+        "fruit": "rainbowcake",
+        "endQuestion": "\ud83c\udf08 Would you still eat it?",
+        "views": 265,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6afeb1f29af0a73f712876fb",
+        "sentAt": "2026-11-19T18:47:16.960Z",
+        "fruit": "tuna",
+        "endQuestion": "What should I cut next?",
+        "views": 1797,
+        "likes": 15,
+        "comments": 0,
+        "shares": 1
+      },
+      {
+        "postId": "6afeb9f94fb82a830a0b5489",
+        "sentAt": "2026-11-19T11:47:06.326Z",
+        "fruit": "battenberg",
+        "endQuestion": "\ud83c\udf70 Would you still eat it?",
+        "views": 3624,
+        "likes": 39,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6afd62a1805b2f3bff403780",
+        "sentAt": "2026-11-18T18:47:24.817Z",
+        "fruit": "salmon",
+        "endQuestion": "What should I cut next?",
+        "views": 3902,
+        "likes": 37,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6afd62a1d015b337f13bb43b",
+        "sentAt": "2026-11-18T11:47:01.619Z",
+        "fruit": "shortcake",
+        "endQuestion": "\ud83c\udf53 Would you still eat it?",
+        "views": 4228,
+        "likes": 58,
+        "comments": 0,
+        "shares": 1
+      },
+      {
+        "postId": "6afc15527974b4805638c337",
+        "sentAt": "2026-11-17T18:46:56.672Z",
+        "fruit": "turkishdelight",
+        "endQuestion": "\ud83c\udf38 What should I cut next?",
+        "views": 1552,
+        "likes": 9,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6afc1203dfcbde96ef6f2ce6",
+        "sentAt": "2026-11-17T11:46:58.506Z",
+        "fruit": "lasagna",
+        "endQuestion": "Would you still eat it?",
+        "views": 4151,
+        "likes": 39,
+        "comments": 1,
+        "shares": 2
+      },
+      {
+        "postId": "6afacc3f60a910801c82bec1",
+        "sentAt": "2026-11-16T18:47:12.586Z",
+        "fruit": "neapolitan",
+        "endQuestion": "cream \ud83c\udf68 What should I cut next?",
+        "views": 3994,
+        "likes": 25,
+        "comments": 2,
+        "shares": 0
+      },
+      {
+        "postId": "6afacc3fa869c35e5bd1b02a",
+        "sentAt": "2026-11-16T11:47:00.578Z",
+        "fruit": "cheesecake",
+        "endQuestion": "Would you still eat it?",
+        "views": 4325,
+        "likes": 47,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6af9629cc5b364e0623fb696",
+        "sentAt": "2026-11-15T18:46:51.419Z",
+        "fruit": "kineticsand",
+        "endQuestion": "\ud83c\udf08 What should I cut next?",
+        "views": 2831,
+        "likes": 16,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6af9629be86a5789a6f81c7a",
+        "sentAt": "2026-11-15T11:46:53.691Z",
+        "fruit": "cake",
+        "endQuestion": "Would you still eat it?",
+        "views": 4614,
+        "likes": 39,
+        "comments": 2,
+        "shares": 4
+      }
+    ]
   }
 ]

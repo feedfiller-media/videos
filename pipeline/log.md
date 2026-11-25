@@ -151,3 +151,11 @@
 - 12:45 sushi roll with "Would you try this?" (fits sushi, splits opinions); 19:45 honey glazed ham with "What should I cut next?" (comment driver).
 - First renders showed moire rings: roe beads on the sushi and meat fibres on the ham were too fine; both patterns were made coarser (ham also a bit more saturated pink) and both videos re-rendered from the cached simulation.
 - Cleanup: swissroll and beefwellington sent, removed from uploads.
+
+## 2026-11-25
+- Nothing scheduled for today and no unused project left, so built two new projects: cherry pie (from wagyu box: flaky golden crust top, bottom and sides, glossy red filling with whole cherries, golden lattice on top with red filling showing through) and cranberry sauce (from salami log: canned jelly log with ring ridges, deep glossy ruby jelly with darker berry flecks).
+- Buffer metrics are from 2026-11-24 12:32 UTC (stale for the newest posts). Fully counted: swiss roll 3456 (caught up like mousse cake), red velvet 3527, salami 3255, bacon 3642. Wellington 214 and sushi 169 only had a few hours of metric age, ham no data yet, so no judgement.
+- Red food with a striking inside keeps landing around 3200 to 4600. Cherry pie is a classic red inside under a golden crust; cranberry sauce is a timely Thanksgiving motif (tomorrow in the US), fully red and very recognizable.
+- 12:45 cherry pie with "Would you still eat it?" (cake family question); 19:45 cranberry sauce with "What should I cut next?" (comment driver, US lunch time on Thanksgiving eve).
+- First renders: cherry pie sides showed wood like rings (flake noise stretched along z), now isotropic golden pastry with blisters and a crimp line; cranberry sauce showed moire rings from the dense cut grid on the smooth glossy jelly, so the progressive grid lines now fade out when they get denser than a few pixels (both projects). Both re-rendered from the cached simulation.
+- Cleanup: sushi and ham sent, removed from uploads.
