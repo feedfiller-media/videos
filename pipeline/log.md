@@ -159,3 +159,11 @@
 - 12:45 cherry pie with "Would you still eat it?" (cake family question); 19:45 cranberry sauce with "What should I cut next?" (comment driver, US lunch time on Thanksgiving eve).
 - First renders: cherry pie sides showed wood like rings (flake noise stretched along z), now isotropic golden pastry with blisters and a crimp line; cranberry sauce showed moire rings from the dense cut grid on the smooth glossy jelly, so the progressive grid lines now fade out when they get denser than a few pixels (both projects). Both re-rendered from the cached simulation.
 - Cleanup: sushi and ham sent, removed from uploads.
+
+## 2026-11-26
+- Nothing scheduled for today and no unused project left, so built two new box projects from cherrypie: strawberry fruit sando (soft white bread top and bottom, whipped cream with whole strawberry halves, strawberry cross sections visible on the sides) and deep dish pizza (golden crust shell, melted cheese with sausage, chunky red tomato sauce, pepperoni and parmesan on top).
+- Metrics from 2026-11-25 11:33 UTC. Fully counted: swiss roll 3481, salami 3263, red velvet 3537, bacon 3649. Sushi 3449 after only ~24h (strong). Wellington stuck at 218 after ~41h and ham 216 at ~17h: both brownish or golden outside with little red showing, so weak. Cherry pie and cranberry no data yet.
+- Red and white or fully red outsides keep winning; the sando shows red strawberries in white cream (like shortcake 4229), the deep dish pizza has a fully red top.
+- 12:45 strawberry sando with "Would you try this?" (worked for sushi, new trend food); 19:45 deep dish pizza with "What should I cut next?" (comment driver).
+- Cleanup: cherrypie and cranberrysauce sent, removed from uploads.
+- First renders: the sando read like a white die with red dots (berries only on two sides, bread and cream both white) and both videos showed moire rings on the front face during the dense cuts. Sando sides now show a row of large strawberry halves cut through the middle with pale centres and a thin golden bread edge; the pizza top got melted cheese pools, darker pepperoni and sauce spilling over a lighter golden crust; the dense grid lines fade out earlier (both projects). Both re-rendered from the cached simulation.
