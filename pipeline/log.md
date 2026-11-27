@@ -167,3 +167,11 @@
 - 12:45 strawberry sando with "Would you try this?" (worked for sushi, new trend food); 19:45 deep dish pizza with "What should I cut next?" (comment driver).
 - Cleanup: cherrypie and cranberrysauce sent, removed from uploads.
 - First renders: the sando read like a white die with red dots (berries only on two sides, bread and cream both white) and both videos showed moire rings on the front face during the dense cuts. Sando sides now show a row of large strawberry halves cut through the middle with pale centres and a thin golden bread edge; the pizza top got melted cheese pools, darker pepperoni and sauce spilling over a lighter golden crust; the dense grid lines fade out earlier (both projects). Both re-rendered from the cached simulation.
+
+## 2026-11-27
+- Nothing scheduled for today and no unused project left, so built two new projects: strawberry crepe cake (from sando box: 16 thin golden crepe layers with white cream, one strawberry layer in the middle, glossy red glaze on top) and red cabbage (from redonion: purple leaves folded into a maze with thin white veins, pale core from the stem, waxy blue purple outer leaves with light veins).
+- Metrics fresh (2026-11-27 07:16 UTC). Fully counted: cherry pie 3559 (strong), sushi 3479, swiss roll 3488. Weak: cranberry sauce 640 after ~36h, ham 301, wellington 222. Early signal: strawberry sando 1068 after ~20h (ahead of swiss roll 758 at the same age), pizza 245 after ~12h.
+- Red and white with a red top keeps winning (shortcake 4230, cherry pie, sando early), so the crepe cake gets a red glazed top and a layered inside; red cabbage is a new vegetable with a striking maze inside and strong magenta color.
+- 12:45 strawberry crepe cake with "Rate this from 1 to 10"; 19:45 red cabbage with "What should I cut next?" (comment driver).
+- First renders showed moire rings on the cabbage skin and faintly on the crepe glaze during the dense cuts (the round template had no dense grid fade); both now fade the progressive grid lines earlier, re-rendered from the cached simulation.
+- Cleanup: fruitsando and pizza sent, removed from uploads.
