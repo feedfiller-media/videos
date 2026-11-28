@@ -175,3 +175,11 @@
 - 12:45 strawberry crepe cake with "Rate this from 1 to 10"; 19:45 red cabbage with "What should I cut next?" (comment driver).
 - First renders showed moire rings on the cabbage skin and faintly on the crepe glaze during the dense cuts (the round template had no dense grid fade); both now fade the progressive grid lines earlier, re-rendered from the cached simulation.
 - Cleanup: fruitsando and pizza sent, removed from uploads.
+
+## 2026-11-28
+- Nothing scheduled for today and no unused project left, so built two new box projects from crepecake: strawberry tart (fluted golden shortbread shell, vanilla custard with specks, a layer of strawberry halves with pale centres in whipped cream, glossy seeded strawberry domes on top) and raspberry macaron (flat rounded shape, pink almond shells with ruffled feet, pink buttercream with a red raspberry jam centre).
+- Buffer metrics still from 2026-11-27 09:35 UTC (stale). Fully counted: cherry pie 3559, sushi 3479, strawberry sando 1159 after ~22h metric age (ahead of the usual pace). Weak: pizza 245, ham 302, cranberry 640. Crepe cake and red cabbage no data yet.
+- Red tops with a red and white inside keep winning (shortcake 4230, cherry pie 3559), so the tart puts red strawberries on top; the macaron is a new rounded flat shape with a strong pink and red look.
+- 12:45 strawberry tart with "Would you still eat it?" (worked for cherry pie and shortcake); 19:45 raspberry macaron with "What should I cut next?" (comment driver).
+- First renders: the tart top looked like red polka dots on white and the fluted sides like a wicker basket; now larger overlapping strawberry slices with darker edges and highlights, smoother shortbread sides. The macaron filling band was mottled; now a clean cream band with a red jam stripe and wider ruffled feet. Both re-rendered from the cached simulation.
+- Cleanup: crepecake and redcabbage sent, removed from uploads.

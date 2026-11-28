@@ -5060,5 +5060,211 @@
         "shares": 2
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-11-28T07:41:58Z",
+    "note": "Daily run 2026-11-28 Berlin. Views keep highest known value. Buffer metrics last updated 2026-11-27 09:35 UTC (crepecake and redcabbage no data yet).",
+    "posts": [
+      {
+        "postId": "6b09466d049983dcfba36ed4",
+        "sentAt": "2026-11-27T18:46:50.920Z",
+        "fruit": "redcabbage",
+        "endQuestion": "red cabbage \ud83e\udd6c What should I cut next?",
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b09466c062ed764a8fcab0d",
+        "sentAt": "2026-11-27T11:45:58.483Z",
+        "fruit": "crepecake",
+        "endQuestion": "strawberry crepe cake \ud83c\udf53 Rate this from 1 to 10",
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b07f524d96a331f4a75d031",
+        "sentAt": "2026-11-26T18:47:05.893Z",
+        "fruit": "pizza",
+        "endQuestion": "deep dish pizza \ud83c\udf55 What should I cut next?",
+        "views": 245,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b07f5227cb39d7aa36447e0",
+        "sentAt": "2026-11-26T11:47:15.050Z",
+        "fruit": "fruitsando",
+        "endQuestion": "strawberry sando \ud83c\udf53 Would you try this?",
+        "views": 1159,
+        "likes": 14,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b06a14722dfb7833a954443",
+        "sentAt": "2026-11-25T18:46:58.064Z",
+        "fruit": "cranberrysauce",
+        "endQuestion": "cranberry sauce \ud83e\udd83 What should I cut next?",
+        "views": 640,
+        "likes": 4,
+        "comments": 2,
+        "shares": 0
+      },
+      {
+        "postId": "6b06a147b6204bca46df7647",
+        "sentAt": "2026-11-25T11:47:03.805Z",
+        "fruit": "cherrypie",
+        "endQuestion": "cherry pie \ud83c\udf52 Would you still eat it?",
+        "views": 3559,
+        "likes": 33,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6b0551682acbde8befbb82eb",
+        "sentAt": "2026-11-24T18:47:08.170Z",
+        "fruit": "ham",
+        "endQuestion": "honey glazed ham \ud83c\udf56 What should I cut next?",
+        "views": 302,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b055168c2cc76a6ce67e7e1",
+        "sentAt": "2026-11-24T11:47:02.015Z",
+        "fruit": "sushi",
+        "endQuestion": "sushi roll \ud83c\udf63 Would you try this?",
+        "views": 3479,
+        "likes": 31,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b03fafd51038c931ba5f7a6",
+        "sentAt": "2026-11-23T18:46:57.225Z",
+        "fruit": "beefwellington",
+        "endQuestion": "beef wellington \ud83e\udd69 What should I cut next?",
+        "views": 222,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6b03fafcbeaafcdbe0d81c9e",
+        "sentAt": "2026-11-23T11:47:07.607Z",
+        "fruit": "swissroll",
+        "endQuestion": "strawberry swiss roll \ud83c\udf53 Would you still eat it?",
+        "views": 3488,
+        "likes": 21,
+        "comments": 2,
+        "shares": 1
+      },
+      {
+        "postId": "6b02aaddd864a01105abc976",
+        "sentAt": "2026-11-22T18:47:03.343Z",
+        "fruit": "salami",
+        "endQuestion": "salami \ud83c\udf56 What should I cut next?",
+        "views": 3273,
+        "likes": 20,
+        "comments": 1,
+        "shares": 2
+      },
+      {
+        "postId": "6b02a69ecc364169c13b932c",
+        "sentAt": "2026-11-22T11:46:46.132Z",
+        "fruit": "redvelvet",
+        "endQuestion": "red velvet cake \ud83c\udf82 Would you still eat it?",
+        "views": 3555,
+        "likes": 44,
+        "comments": 1,
+        "shares": 2
+      },
+      {
+        "postId": "6b015cc8dd205ed779d0a081",
+        "sentAt": "2026-11-21T18:47:03.672Z",
+        "fruit": "bacon",
+        "endQuestion": "bacon \ud83e\udd53 What should I cut next?",
+        "views": 3652,
+        "likes": 27,
+        "comments": 1,
+        "shares": 4
+      },
+      {
+        "postId": "6b015cc7dd205ed779d0a00f",
+        "sentAt": "2026-11-21T11:46:51.717Z",
+        "fruit": "moussecake",
+        "endQuestion": "strawberry mousse cake \ud83c\udf53 Would you still eat it?",
+        "views": 3492,
+        "likes": 38,
+        "comments": 0,
+        "shares": 2
+      },
+      {
+        "postId": "6b000b9e7b0a126cebbfde34",
+        "sentAt": "2026-11-20T18:46:56.094Z",
+        "fruit": "wagyu",
+        "endQuestion": "wagyu beef \ud83e\udd69 What should I cut next?",
+        "views": 3542,
+        "likes": 26,
+        "comments": 0,
+        "shares": 2
+      },
+      {
+        "postId": "6b000345d5f8acdd0d83322a",
+        "sentAt": "2026-11-20T11:46:49.658Z",
+        "fruit": "rainbowcake",
+        "endQuestion": "rainbow cake \ud83c\udf08 Would you still eat it?",
+        "views": 265,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6afeb1f29af0a73f712876fb",
+        "sentAt": "2026-11-19T18:47:16.960Z",
+        "fruit": "tuna",
+        "endQuestion": "tuna \ud83d\udc1f What should I cut next?",
+        "views": 1799,
+        "likes": 15,
+        "comments": 0,
+        "shares": 1
+      },
+      {
+        "postId": "6afeb9f94fb82a830a0b5489",
+        "sentAt": "2026-11-19T11:47:06.326Z",
+        "fruit": "battenberg",
+        "endQuestion": "battenberg cake \ud83c\udf70 Would you still eat it?",
+        "views": 3636,
+        "likes": 39,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "postId": "6afd62a1805b2f3bff403780",
+        "sentAt": "2026-11-18T18:47:24.817Z",
+        "fruit": "salmon",
+        "endQuestion": "salmon \ud83c\udf63 What should I cut next?",
+        "views": 3905,
+        "likes": 37,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "postId": "6afd62a1d015b337f13bb43b",
+        "sentAt": "2026-11-18T11:47:01.619Z",
+        "fruit": "shortcake",
+        "endQuestion": "strawberry shortcake \ud83c\udf53 Would you still eat it?",
+        "views": 4230,
+        "likes": 58,
+        "comments": 0,
+        "shares": 1
+      }
+    ]
   }
 ]
